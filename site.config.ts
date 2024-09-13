@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '100af61ceab180ae8db1c342c795a66f',
+  rootNotionPageId: '1002de5dad75802b92bdcfcafb408f28',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'PM100Fun',
-  domain: 'https://pm100fun.notion.site/100af61ceab180ae8db1c342c795a66f',
+  domain: 'https://pm100fun.notion.site/1002de5dad75802b92bdcfcafb408f28',
   author: 'PM100Fun',
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
